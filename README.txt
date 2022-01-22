@@ -33,7 +33,3 @@ Client.on("messageCreate", message => {
     if(message.content === prefix + "flex") {
         message.channel.send("@here QUE TOUT LE MONDE SE RASSEMBLE POUR LA FLEX");}
 });
-
-
-
-Client.login("OTM0MDY0NDcxNzI1NDY5Nzg2.YeqpVA.T7UFkdxotPRClYl0YuIgMEHXOLk");
